@@ -8,5 +8,3 @@
 Mr0Bread/Mr0Bread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-https://www.figma.com/file/hdOJSm7upKb1p7B3CKM6E5/SS-Remaster-Wireframes?node-id=107%3A495
